@@ -2,7 +2,7 @@
 Notes about security
 
 # Principles
-- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [HTML5 Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html)
 
 # References
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
